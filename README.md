@@ -7,7 +7,6 @@ This app was built with some technologies below:
 - [React Js](https://reactjs.org/)
 - [Javascript](https://www.javascript.com/)
 - [Axios](https://axios-http.com/)
-- [Redux](https://redux.js.org/)
 - [Bootstap](https://getbootstrap.com)
 
 
